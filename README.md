@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at TimeChain Labs as an Intern <br>🌱 I’m currently learning working with Frameworks for Web Developements
+🔭 I’m currently working at TimeChain Labs as an Intern<br>🌱 I’m currently Head of Hyderabad Chapter for Big Blockers Hyderabad <br>🌱 I’m currently learning working with Frameworks for Web Developements
 
 
 ## 🌐 Socials:
